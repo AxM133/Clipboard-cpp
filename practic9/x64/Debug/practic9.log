@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\axm\Documents\practic\practic9\practic9\Source.cpp(98,27): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  practic9.vcxproj -> C:\Users\axm\Documents\practic\practic9\x64\Debug\practic9.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
